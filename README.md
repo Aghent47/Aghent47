@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school: I am a `Systems Engineer` at [Faculty of engineering](https://www.unimagdalena.edu.co/PresentacionFacultad/Facultad/2) at [Suez Canal University](https://www.unimagdalena.edu.co/).
 - :technologist: I love using Software as a solution for every `Problem`.
