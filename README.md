@@ -1,7 +1,11 @@
 
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/neider-hern%C3%A1ndez/">Neider Hernández</a> 👋</h1>
+  <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/neider-hern%C3%A1ndez/">Neider Hernández</a> 👋</h1>
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Systems+Engineer"></a>
+</p>
 <!--
 **Aghent47/Aghent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
