@@ -10,6 +10,17 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a `Systems Engineer` at [Faculty of engineering](https://www.unimagdalena.edu.co/PresentacionFacultad/Facultad/2) at [Suez Canal University](https://www.unimagdalena.edu.co/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive developer at `MongoDB`, `ExpressJS`, `ReactJs`, `NodeJS`, `VSCODE`.
+- :student: I’m currently learning `Cybersecurity` and `Cloud Computing`.
+- :nerd_face: Always `constantly learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gjBHIfYaBXUo7lrXxr3YYe4LcGJjcqgf/view?usp=sharing).
+
+<br>
 <!--
 **Aghent47/Aghent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
