@@ -13,7 +13,7 @@
 
 <br>
 
-- :school: I am a `Systems Engineer` at [Faculty of engineering](https://www.unimagdalena.edu.co/PresentacionFacultad/Facultad/2) at [Suez Canal University](https://www.unimagdalena.edu.co/).
+- :school: I am a `Systems Engineer` at [Faculty of engineering](https://www.unimagdalena.edu.co/PresentacionFacultad/Facultad/2) at [Universidad del Magdalena](https://www.unimagdalena.edu.co/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive developer at `MongoDB`, `ExpressJS`, `ReactJs`, `NodeJS`, `VSCODE`.
 - :student: I’m currently learning `Cybersecurity` and `Cloud Computing`.
