@@ -21,6 +21,8 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](https://drive.google.com/file/d/1gjBHIfYaBXUo7lrXxr3YYe4LcGJjcqgf/view?usp=sharing).
 
 <br>
+
+## 🛠️ My Skills
 <!--
 **Aghent47/Aghent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
